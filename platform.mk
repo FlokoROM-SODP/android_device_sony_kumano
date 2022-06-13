@@ -15,7 +15,7 @@
 # Platform path
 PLATFORM_COMMON_PATH := device/sony/kumano
 
-MSMNILE := sm8150
+MSMNILE := msmnile
 
 SOMC_PLATFORM := kumano
 SOMC_KERNEL_VERSION := 4.19
